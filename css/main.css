@@ -1,0 +1,88 @@
+/*General colors */
+/* rojo #DC143C; crema #FFF8DC;
+
+/* Header, nav menu */ 
+header{
+	background-color: #DC143C;
+	color: #FFF8DC;
+	padding-top: 1%;
+	padding-bottom:1%;
+}
+h4{
+	margin-left: 5%;
+}
+.menu1{
+	text-decoration: none;
+	color:#FFF8DC;
+}
+.linkmenu{
+	margin-left: 5%;
+}
+
+/* Banner style */
+.banner{
+	color: #FFF8DC;
+	background-image: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 390px;
+}
+.texto-creamy{
+	padding-top: 13%;
+}
+.fondo-helado{
+	background-color:rgba(62, 63, 64, .5);
+	height: 390px;
+}
+/*Section 1 style */
+.section1{
+	background-color: #FFF8DC;
+	color: #DC143C;
+}
+.titleoh{
+	margin-top: 20%;
+}
+.pcreamy{
+	margin-left: 6%;
+	margin-right: 6%;
+}
+.heladoimg{
+	height: 70%;
+	width: 80%;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+/*Section 2 style */
+.about{
+	background-color: #DC143C;
+	color: #FFF8DC;
+}
+.titleabout{
+	margin-top: 6%;
+}
+.p-about{
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-bottom: 6%;
+}
+/*Ultima section, texto con iconos */
+.three{
+	background-color:#FFF8DC;
+	color: #DC143C; 
+	padding-bottom: 5%;
+}
+.icon{
+	padding-top: 12%;
+	margin-left: 41%;
+	font-size: 480%;
+}
+.ptres{
+	justify-content: center;
+}
+/* Footer */ 
+footer{
+	background-color: #DC143C;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	color: #FFF8DC;
+}
